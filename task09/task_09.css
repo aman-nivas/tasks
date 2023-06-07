@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Slab&display=swap');
+
+
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.main_div {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    /* background-color: #fff; */
+}
+
+#logo-image {
+    border-radius: 15%;
+}
+
+.div1 {
+    background-color: aquamarine;
+    width: 300px;
+    height: cover;
+}
+.div1 center p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.div2 {
+    background-color: rgb(224, 131, 18);
+    width: 300px;
+    height: cover;
+}
+
+.div2 div p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.div3 {
+    background-color: rgb(198, 198, 30);
+    width: 300px;
+    height: cover;
+}
+
+.div4 {
+    background-color: rgb(30, 172, 219);
+    width: 300px;
+    height: cover;
+}
+
+.div1 div {
+    border-bottom: 3px dotted rgb(207, 23, 167);
+}
+
+.div1 h4 {
+    margin-top: 0px;
+    color: rgb(234, 95, 21);
+    font-weight: bold;
+}
+
+p {
+    font-size: 10px;
+}
+
+.div2 p {
+    text-align: justify;
+}
+
+#hanu {
+    width: 100px;
+    height: 100px;
+}
+
+.div3 div {}
